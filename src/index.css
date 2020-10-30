@@ -55,6 +55,7 @@ ul {
   font-size: 50px;
 }
 .units {
+  border: none;
   position: relative;
   top: -30px;
 }
