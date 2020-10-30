@@ -29,12 +29,12 @@ function App(props) {
                 />
 
                 <span className="temperature">26</span>
-                <a className="units celsius active" href="#">
+                <button className="units celsius active">
                   °C|
-                </a>
-                <a id="fahrenheit-unit" className="units fahrenheit" href="#">
+                </button>
+                <button id="fahrenheit-unit" className="units fahrenheit">
                   ℉
-                </a>
+                </button>
               </li>
               <li id="description" className="weather-description"></li>
             </ul>
