@@ -59,7 +59,7 @@ function App(props) {
           </div>
         </div>
       </div>
-        <small><a href="https://github.com/lenka1987-bit/weather-react-app" target="_blank">Open-source code </a> by Lenka Doubravova</small>
+        <small><a href="https://github.com/lenka1987-bit/weather-react-app" rel="noopener noreferrer" target="_blank">Open-source code </a> by Lenka Doubravova</small>
     </div>
   );
 }
